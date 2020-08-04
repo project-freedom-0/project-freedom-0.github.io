@@ -8,3 +8,6 @@
 
 
 Link to website: project-freedom-0.github.io
+
+
+Link to app: ai2.appinventor.mit.edu/?galleryId=6366960330080256
